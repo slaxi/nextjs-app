@@ -1,0 +1,9 @@
+.navigation {
+    padding: 0 10px;
+    align-self: center;
+}
+
+.activeNavigation {
+    background: rgb(190, 131, 21);
+    color: black;
+}
